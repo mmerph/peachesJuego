@@ -1,0 +1,17 @@
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.Form1.resources
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.csproj.GenerateResource.cache
+D:\reposVS\PeachesGame\PeachesGame\bin\Debug\net8.0-windows\PeachesGame.exe
+D:\reposVS\PeachesGame\PeachesGame\bin\Debug\net8.0-windows\PeachesGame.deps.json
+D:\reposVS\PeachesGame\PeachesGame\bin\Debug\net8.0-windows\PeachesGame.runtimeconfig.json
+D:\reposVS\PeachesGame\PeachesGame\bin\Debug\net8.0-windows\PeachesGame.dll
+D:\reposVS\PeachesGame\PeachesGame\bin\Debug\net8.0-windows\PeachesGame.pdb
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.Properties.Resources.resources
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.AssemblyInfoInputs.cache
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.AssemblyInfo.cs
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.csproj.CoreCompileInputs.cache
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.dll
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\refint\PeachesGame.dll
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.pdb
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\PeachesGame.genruntimeconfig.cache
+D:\reposVS\PeachesGame\PeachesGame\obj\Debug\net8.0-windows\ref\PeachesGame.dll
